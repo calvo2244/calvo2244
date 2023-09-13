@@ -35,11 +35,11 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 <p align="center"><!-----Social Accounts------>
 
 <p align="center">
- <a href="">
+ <!-- <a href="">
  <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a>
+ </a> --!>
 
- <a href="https://www.linkedin.com/in/alamin20/">
+ <a href="https://www.linkedin.com/in/hector-eduardo-astudillo-garces-962738164/">
  
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
