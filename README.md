@@ -146,6 +146,12 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
   </a>
+   <a href="https://es.react.dev/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/react-%2331A8FF.svg?logo=react&logoColor=white"/>
+  </a>
+  <a href="https://es.redux.js.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/redux-%2314354C.svg?logo=redux&logoColor=white"/>
+  </a>
   
  <!-- <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
@@ -197,12 +203,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
  <a href="https://github.com/" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   </a>
-  <a href="https://es.react.dev/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/react-%2331A8FF.svg?logo=react&logoColor=white"/>
-  </a>
-  <a href="https://es.redux.js.org/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/redux-%2314354C.svg?logo=redux&logoColor=white"/>
-  </a>
+ 
 </p>
 
 
