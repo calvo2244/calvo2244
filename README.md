@@ -98,7 +98,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-### 📋 Lenguajes de programación
+### 📋 Programming languages
 
 <p align="left"> 
 <!--
@@ -258,7 +258,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 </p>
 
     
-    
+<br>    
 ### 💻 IDEs/Editors
 
 <p align="left"> 
@@ -270,29 +270,29 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white">
   </a> 
   
- <a href="https://www.qt.io/" target="_blank"> 
+ <!--<a href="https://www.qt.io/" target="_blank"> 
     <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white"/>
-  </a>
+  </a>-->
 
- <a href="https://www.rstudio.com/" target="_blank"> 
+ <!--<a href="https://www.rstudio.com/" target="_blank"> 
     <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB.svg?logo=tailwind-css&logoColor=white"/>
-  </a>
+  </a>-->
 
- <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+ <!--<a href="https://www.jetbrains.com/idea/" target="_blank"> 
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
-  </a>
+  </a>-->
 
  <a href="https://netbeans.apache.org/" target="_blank"> 
     <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"/>
   </a>
 
- <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+<!-- <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-  </a>
+  </a>-->
 
- <a href="https://www.sublimetext.com/" target="_blank"> 
+ <!--<a href="https://www.sublimetext.com/" target="_blank"> 
     <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"/>
-  </a>
+  </a>-->
   
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
