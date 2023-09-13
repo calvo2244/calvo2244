@@ -130,9 +130,10 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
   </a> -->
 </p>
-<br>
+
 ### 📋 Frontend Development
 <br> 
+
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
@@ -150,27 +151,26 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
   </a>-->
 </p>
+
 <!--
-<br>
-
 ### ☁️ Cloud
-<br> 
+<br>-->
 <p align="left"> 
-  <a href="https://aws.amazon.com/" target="_blank"> 
+  <!--<a href="https://aws.amazon.com/" target="_blank"> 
    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
-  </a>   
+  </a>   -->
   
-  <a href="https://azure.microsoft.com/" target="_blank">
+  <!--<a href="https://azure.microsoft.com/" target="_blank">
     <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white">
-  </a> 
+  </a> -->
   
- <a href="https://cloud.google.com/" target="_blank"> 
+ <!--<a href="https://cloud.google.com/" target="_blank"> 
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
-  </a>
+  </a>-->
   
-</p>--!>
+</p>
 
-<br>
+
 ### ♾️ DevOps
 <br> 
 <p align="left"> 
@@ -199,7 +199,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
   </a>
 </p>
 
-<br>
+
 ### 💾 Databases
 <br> 
 <p align="left"> 
@@ -228,7 +228,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
   
 </p>
 
-<br>
+
 ### 🎛️ Operating Systems
 <br> 
 <p align="left"> 
@@ -258,7 +258,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 </p>
 
     
-<br>    
+   
 ### 💻 IDEs/Editors
 <br> 
 <p align="left"> 
