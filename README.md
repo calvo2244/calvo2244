@@ -169,7 +169,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
   
 </p>
 --!>
-
+<br>
 ### ♾️ DevOps
 
 <p align="left"> 
@@ -197,7 +197,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   </a>
 </p>
-
+<br>
 ### 💾 Databases
 
 <p align="left"> 
@@ -227,13 +227,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
   
 </p>
 
-
-
-
-
-
-
-
+<br>
 ### 🎛️ Operating Systems
 
 <p align="left"> 
