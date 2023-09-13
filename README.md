@@ -44,7 +44,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://twitter.com/">
+ <a href="https://twitter.com/calvo2244">
  <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
 
@@ -52,14 +52,14 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
  <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
 
- <a href="https://t.me/3008880519">
+ <a href="https://t.me/calvo2244">
  <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
  </a>
 
  <a href="https://discord.com/invite/5RmW6dZKpe6">
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
- <a href="mailto:alamin.contact24@gmail.com">
+ <a href="mailto:calvo22442@gmail">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
@@ -98,36 +98,37 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-### 📋 Programming languages
+### 📋 Lenguajes de programación
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+<!--
+ <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
   </a> 
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+--!>
+  <!--<a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
+  </a> --!>
 
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a>
 
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
-
-  <a href="https://www.php.net/" target="_blank">
+  
+ <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
+  </a>
+ 
+  <!--<a href="https://www.php.net/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-  </a>
+  </a>--!>
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <!--<a href="https://www.gnu.org/software/bash/" target="_blank">
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
-  </a>
+  </a> --!>
 </p>
 
 
