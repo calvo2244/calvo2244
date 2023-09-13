@@ -310,6 +310,8 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 ### 🥅 Others:
 
 <a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a>
+<a href="https://www.joomla.org/" target="_blank"><img alt="Joomla" src="https://img.shields.io/badge/joomla%2300f.svg?logo=joomla&logoColor=white"></a>
+
 <!--<a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>-->
 <!--<a href="https://httpd.apache.org" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"></a>-->
 <!--<a href="https://tomcat.apache.org" target="_blank"><img alt="Apache Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black"></a>-->
