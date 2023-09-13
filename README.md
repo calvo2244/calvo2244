@@ -152,10 +152,21 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
   <a href="https://es.redux.js.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/redux-%2314354C.svg?logo=redux&logoColor=white"/>
   </a>
+  <a href="https://nodejs.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/node.js-%3DDC84.svg?logo=nodejs&logoColor=white"/>
+  </a>
   
  <!-- <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
   </a>-->
+</p>
+
+### 📋 Back-end Development
+<br> 
+<p align="left"> 
+<a href="https://nodejs.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/node.js-%3DDC84.svg?logo=nodejs&logoColor=white"/>
+  </a>
 </p>
 
 <!--
