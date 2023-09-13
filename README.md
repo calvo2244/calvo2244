@@ -65,31 +65,31 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 </p>
 
 <br>
-
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
 <br>
-
+-->
 
 <p align="left"> 
-  <a href="https://www.hackerrank.com/Alamin972731?hr_r=1" target="_blank"> 
+  <!--<a href="https://www.hackerrank.com/Alamin972731?hr_r=1" target="_blank"> 
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/>
-  </a>
+  </a>-->
   
-  <a href="https://www.codechef.com/users/Alamin972731" target="_blank"> 
+  <!--<a href="https://www.codechef.com/users/Alamin972731" target="_blank"> 
    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white">
-  </a>
+  </a>-->
   
-  <a href="https://codeforces.com/profile/alamin.ai" target="_blank">
+ <!-- <a href="https://codeforces.com/profile/alamin.ai" target="_blank">
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white">
-  </a> 
+  </a> -->
   
-  <a href="https://www.hackerearth.com/@al107" target="_blank"> 
+ <!-- <a href="https://www.hackerearth.com/@al107" target="_blank"> 
     <img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/>
-  </a>
+  </a>-->
   
-  <a href="https://leetcode.com/alamin11/" target="_blank"> 
+  <!--<a href="https://leetcode.com/alamin11/" target="_blank"> 
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
-  </a>
+  </a>-->
 </p>
 
 
