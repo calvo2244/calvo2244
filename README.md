@@ -99,7 +99,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### 📋 Programming languages
-
+<br> 
 <p align="left"> 
 <!--
  <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -132,7 +132,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 </p>
 <br>
 ### 📋 Frontend Development
-
+<br> 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
@@ -154,7 +154,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 <br>
 
 ### ☁️ Cloud
-
+<br> 
 <p align="left"> 
   <a href="https://aws.amazon.com/" target="_blank"> 
    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
@@ -172,7 +172,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 
 <br>
 ### ♾️ DevOps
-
+<br> 
 <p align="left"> 
   <!--
   <a href="https://www.docker.com/" target="_blank"> 
@@ -201,7 +201,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 
 <br>
 ### 💾 Databases
-
+<br> 
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank"> 
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
@@ -230,7 +230,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 
 <br>
 ### 🎛️ Operating Systems
-
+<br> 
 <p align="left"> 
   <!--<a href="https://www.centos.org/" target="_blank"> 
    <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0">
@@ -260,7 +260,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
     
 <br>    
 ### 💻 IDEs/Editors
-
+<br> 
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank"> 
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
