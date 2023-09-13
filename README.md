@@ -37,7 +37,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 <p align="center">
  <!-- <a href="">
  <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a> --!>
+ </a> -->
 
  <a href="https://www.linkedin.com/in/hector-eduardo-astudillo-garces-962738164/">
  
@@ -108,7 +108,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 --!>
   <!--<a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> --!>
+  </a> -->
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -124,11 +124,11 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
  
   <!--<a href="https://www.php.net/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-  </a>--!>
+  </a>-->
 
   <!--<a href="https://www.gnu.org/software/bash/" target="_blank">
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
-  </a> --!>
+  </a> -->
 </p>
 <br>
 ### 📋 Frontend Development
@@ -146,12 +146,13 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
   </a>
   
-  <a href="https://tailwindcss.com" target="_blank"> 
+ <!-- <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
-  </a>
+  </a>-->
 </p>
 <!--
 <br>
+
 ### ☁️ Cloud
 
 <p align="left"> 
@@ -167,8 +168,8 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
   </a>
   
-</p>
---!>
+</p>--!>
+
 <br>
 ### ♾️ DevOps
 
@@ -176,19 +177,19 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
   <!--
   <a href="https://www.docker.com/" target="_blank"> 
    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-  </a>   
+  </a>   -->
   
-  <a href="https://kubernetes.io/" target="_blank">
+ <!-- <a href="https://kubernetes.io/" target="_blank">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
-  </a> 
+  </a> -->
   
- <a href="https://bitbucket.org/" target="_blank"> 
+ <!--<a href="https://bitbucket.org/" target="_blank"> 
     <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank"> 
+  </a>-->
+ <!-- <a href="https://about.gitlab.com/" target="_blank"> 
     <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"/>
   </a>
---!>
+-->
  <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
   </a>
@@ -197,11 +198,11 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   </a>
 </p>
+
 <br>
 ### 💾 Databases
 
 <p align="left"> 
-
   <a href="https://www.mysql.com/" target="_blank"> 
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
   </a>   
@@ -215,11 +216,11 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
   
   <!--<a href="https://aws.amazon.com/dynamodb/" target="_blank">
     <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white">
-  </a> --!>
+  </a> -->
   
- <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
+<!-- <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
     <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
-  </a>--!>
+  </a>-->
 
  <a href="https://firebase.google.com/" target="_blank"> 
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white"/>
@@ -231,25 +232,25 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 ### 🎛️ Operating Systems
 
 <p align="left"> 
-  <a href="https://www.centos.org/" target="_blank"> 
+  <!--<a href="https://www.centos.org/" target="_blank"> 
    <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0">
-  </a>   
+  </a>-->   
   
-  <a href="https://www.debian.org/" target="_blank">
+  <!--<a href="https://www.debian.org/" target="_blank">
     <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white">
-  </a> 
+  </a>--> 
   
- <a href="https://www.kali.org/" target="_blank"> 
+ <!--<a href="https://www.kali.org/" target="_blank"> 
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white"/>
-  </a>
+  </a>-->
   
-  <a href="https://www.linux.org/" target="_blank"> 
+  <!--<a href="https://www.linux.org/" target="_blank"> 
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  </a>
+  </a>-->
 
- <a href="https://ubuntu.com/" target="_blank"> 
+ <!--<a href="https://ubuntu.com/" target="_blank"> 
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
-  </a>
+  </a>-->
 
  <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
