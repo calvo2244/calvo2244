@@ -220,6 +220,9 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
  <a href="https://github.com/" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   </a>
+  <a href="[https://github.com/](https://trello.com/)" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/badge/trello-%2331A8FF.svg?logo=trello&logoColor=white"/>
+  </a>
  
 </p>
 
