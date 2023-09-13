@@ -203,29 +203,27 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 ### 💾 Databases
 <br> 
 <p align="left"> 
+ <a href="https://www.sqlite.org/" target="_blank"> 
+   <img alt="Postgresql" src="https://img.shields.io/badge/postgresql-%2314354C.svg?logo=postgresql&logoColor=white">
+  </a> 
+  <a href="https://www.sqlite.org/" target="_blank"> 
+   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
+  </a> 
   <a href="https://www.mysql.com/" target="_blank"> 
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
   </a>   
-  <!-- <a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-  </a>  --!>
-  
-   <a href="https://www.sqlite.org/" target="_blank"> 
-   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
-  </a>   
-  
-  <!--<a href="https://aws.amazon.com/dynamodb/" target="_blank">
-    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white">
-  </a> -->
-  
-<!-- <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
-  </a>-->
-
  <a href="https://firebase.google.com/" target="_blank"> 
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white"/>
   </a>
-  
+  <!-- <a href="https://www.mongodb.com/" target="_blank"> 
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+  </a>  --!>  
+  <!--<a href="https://aws.amazon.com/dynamodb/" target="_blank">
+    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white">
+  </a> -->  
+  <!--<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
+    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
+  </a>-->  
 </p>
 
 
