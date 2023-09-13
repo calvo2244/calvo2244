@@ -48,11 +48,11 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
  <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
 
- <a href="https://www.instagram.com/">
+ <a href="https://www.instagram.com/eduardo.astudillo/">
  <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
 
- <a href="https://t.me/alamin2me">
+ <a href="https://t.me/3008880519">
  <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
  </a>
 
