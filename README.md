@@ -173,7 +173,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
  <a href="https://expressjs.com/es/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/express-%2300C4CC.svg?logo=express&logoColor=white"/>
   </a>
- <a href="https://sequelize.org/" target="_blank"> 2314354C
+ <a href="https://sequelize.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/sequelize-%2314354C.svg?logo=sequelize&logoColor=white"/>
   </a>
 </p>
@@ -233,7 +233,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 ### 💾 Databases
 <br> 
 <p align="left"> 
- <a href="https://www.sqlite.org/" target="_blank"> 
+ <a href="https://postgrest.org/" target="_blank"> 
    <img alt="Postgresql" src="https://img.shields.io/badge/postgresql-%2314354C.svg?logo=postgresql&logoColor=white">
   </a> 
   <a href="https://www.sqlite.org/" target="_blank"> 
