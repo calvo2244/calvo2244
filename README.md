@@ -154,9 +154,9 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
   </a>
   <a href="https://nodejs.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/node.js-%3DDC84.svg?logo=nodejs&logoColor=white"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/express-%2314354C.svg?logo=express&logoColor=white"/>
+  </a>  
+  <a href="https://axios-http.com/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/axios-%2331A8FF.svg?logo=axios&logoColor=white"/>
   </a>
   
  <!-- <a href="https://tailwindcss.com" target="_blank"> 
@@ -169,6 +169,9 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
 <p align="left"> 
 <a href="https://nodejs.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/node.js-%3DDC84.svg?logo=nodejs&logoColor=white"/>
+  </a>
+ <a href="https://expressjs.com/es/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/express-%2300C4CC.svg?logo=express&logoColor=white"/>
   </a>
 </p>
 
