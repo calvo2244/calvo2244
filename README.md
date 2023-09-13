@@ -197,6 +197,12 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
  <a href="https://github.com/" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   </a>
+  <a href="https://es.react.dev/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/react-%2331A8FF.svg?logo=react&logoColor=white"/>
+  </a>
+  <a href="https://es.redux.js.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/redux-%2314354C.svg?logo=redux&logoColor=white"/>
+  </a>
 </p>
 
 
@@ -295,15 +301,7 @@ Tengo experiencia en proyectos con manejo de Html Css Javascript React Redux, No
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
   </a>
-</p>
-
-
-
-    
-    
-
-  
-  
+</p>  
   
 ### 🥅 Others:
 
